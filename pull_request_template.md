@@ -24,15 +24,31 @@ Please describe any affects that this might have on other parts of the applicati
 
 Please describe in detail how you tested your changes using checkboxes, so the reviewer can check of what you have tested as they also test the bug fix.
 
--   [ ] xxx
--   [ ] yyy
+- [ ] xxx
+- [ ] yyy
 
 ## Have you self reviewed your code?
 
--   [ ] I have updated or added appropriate unit tests
--   [ ] I have self reviewed my own code
--   [ ] There are no errors or warnings in the compiler
+- [ ] I have updated or added appropriate unit tests
+- [ ] I have self reviewed my own code
+- [ ] There are no errors or warnings in the compiler
 
 ## Screenshots (if appropriate)
 
 ---
+
+## Reviewer checklist
+
+As a reviewer I have...
+
+- [ ] Reviewed the code
+  - [ ] I can understand the code written in the PR
+  - [ ] The code follow the code base standards
+  - [ ] The commit messages make sense
+- [ ] Checked that the Code is documented
+  - [ ] Public functions are documented (export keyword)
+- [ ] Checked that there are no security issues
+  - [ ] Manual Review
+  - [ ] Authentication & Authorization tests are present (when applicable)
+
+> Not everything as to be checked but have you considered the items on the list?
