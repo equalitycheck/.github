@@ -16,7 +16,6 @@
 - [ ] By reviewer
 - [ ] By product team
 
-
 ## Reviewer checklist
 
 - [ ] I can understand the code
