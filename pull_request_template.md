@@ -1,20 +1,19 @@
-## Task link
+## Task
 
 
 ## Dependencies
 
 
-## Affects other parts of the application?
+## Impacts
+- [ ] Breaking changes
+- [ ] Merging has to be planned
 
-
-## Screenshots
-
-
-## How has this been tested?
-- [ ] By developer
-- [ ] By reviewer
-- [ ] By product team
+## Tested by
+- [ ] Developer
+- [ ] Reviewer
 
 ## Reviewer checklist
-- [ ] I can understand the code
-- [ ] I have checked that there are no security issues
+- [ ] I understand the code
+- [ ] I have checked for security issues
+
+## Screenshots
